@@ -1,0 +1,20 @@
+{
+  "name": "refactoring-kata-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { "test": "jasmine" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanlylau/refactoring-kata-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanlylau/refactoring-kata-js/issues"
+  },
+  "homepage": "https://github.com/stanlylau/refactoring-kata-js#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
